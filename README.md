@@ -1,5 +1,4 @@
 # The Expense of Neuro-Morpho Functional Machines
-## 2020
 The impact of the environment on the evolution of increasingly complex
 morphologies (bodies) and controllers (brains) remains an open
 question in evolutionary biology and has
